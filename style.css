@@ -1,3 +1,12 @@
+* {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .image-one {
     height: 250px;
 }
