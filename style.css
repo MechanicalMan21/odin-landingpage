@@ -7,6 +7,20 @@ h1 {
     font-weight: 900;
 }
 
+.header {
+    border: 1px red solid;
+    display:flex;
+}
+
+.upper-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.lower-section {
+    
+}
+
 .image-one {
     height: 250px;
 }
