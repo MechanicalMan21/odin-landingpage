@@ -1,5 +1,6 @@
 * {
     font-family: Roboto, Helvetica, Arial, sans-serif;
+    border: 1px red solid;
 }
 
 h1 {
@@ -8,7 +9,6 @@ h1 {
 }
 
 .header {
-    border: 1px red solid;
     display:flex;
 }
 
@@ -22,6 +22,7 @@ h1 {
     font-size: 20px;
     color: red;
     background-color: black;
+    border-radius: 11px; 
 }
 
 .lower-section {
