@@ -1,5 +1,10 @@
 * {
     font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    display: flex; 
+    justify-content: center;  
     border: 1px red solid;
 }
 
@@ -15,7 +20,8 @@ h1 {
 .upper-section {
     display: flex;
     flex-direction: column;
-    width: 75%;
+    border: 1px red solid;
+    width: 85%;
 }
 
 .sign-up {
