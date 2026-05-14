@@ -37,6 +37,10 @@ h1 {
     border: 1px red solid;
 }
 
+.raw-mma {
+    /* display: flex; */
+}
+
 .raw-mma-title {
     margin-bottom: 0;
 }
@@ -54,6 +58,14 @@ h1 {
     background-color: black;
     border-radius: 11px; 
 }
+
+.upper-text-image {
+    display: flex;
+    justify-content: space-between;
+    border: 1px red solid;
+}
+
+/* Lower Section Stuff */
 
 .lower-section {
 
