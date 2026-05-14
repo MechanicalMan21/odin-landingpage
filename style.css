@@ -28,6 +28,8 @@ h1 {
     width: 31%;
 }
 
+/*upper-section stuff*/
+
 .upper-section {
     display: flex;
     flex-direction: column;
@@ -35,7 +37,17 @@ h1 {
     border: 1px red solid;
 }
 
+.raw-mma-title {
+    margin-bottom: 0;
+}
+
+.mma-description {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .sign-up {
+    margin-top: 0;
     padding: 8px 15px;
     font-size: 20px;
     color: red;
