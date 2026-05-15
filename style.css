@@ -4,8 +4,9 @@
 
 body {
     display: flex; 
-    justify-content: center;  
-    border: 1px red solid;
+    justify-content: center;
+    
+    margin: 0;
 }
 
 h1 {
@@ -30,11 +31,24 @@ h1 {
 
 /*upper-section stuff*/
 
+.highlight-box {
+    display: flex;
+    justify-content: center;
+
+    background-color: #1F2937;
+    width: 100%; 
+    height: 430px;
+}
+
 .upper-section {
     display: flex;
     flex-direction: column;
     width: 78%;
-    border: 1px red solid;
+    /* height: 40%; */
+    padding-top: 10px;
+    border: 1px solid red;
+
+    
 }
 
 .raw-mma {
@@ -47,7 +61,7 @@ h1 {
 
 .mma-description {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 30px;
 }
 
 .sign-up {
@@ -62,7 +76,7 @@ h1 {
 .upper-text-image {
     display: flex;
     justify-content: space-between;
-    border: 1px red solid;
+    
 }
 
 /* Lower Section Stuff */
