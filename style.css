@@ -1,5 +1,6 @@
 * {
     font-family: Roboto, Helvetica, Arial, sans-serif;
+   
 }
 
 body {
@@ -23,12 +24,6 @@ h1 {
     
 }
 
-.header-link {
-    display: flex; 
-    justify-content: space-between;
-    width: 31%;
-}
-
 /*upper-section stuff*/
 
 .highlight-box1 {
@@ -38,6 +33,14 @@ h1 {
     background-color: #1F2937;
     width: 100%; 
     height: 430px;
+}
+
+.header-link {
+    display: flex; 
+    justify-content: space-between;
+    /* width: 31%; */
+    gap: 30px;
+   
 }
 
 .upper-section {
@@ -111,6 +114,7 @@ h1 {
 /* Lower Section Stuff */
 
 .lower-section {
-
+    background-color: #E5E7EB;
+    
 }
 
