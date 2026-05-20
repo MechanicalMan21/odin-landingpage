@@ -97,6 +97,13 @@ h1 {
     font-weight: 900;
 }
 
+.ms-image {
+    display: flex;
+    justify-content: space-around;
+    height: 200px; 
+    margin-bottom: 50px;
+}
+
 /* Lower Section Stuff */
 
 .lower-section {
