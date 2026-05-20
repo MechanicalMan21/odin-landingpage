@@ -99,7 +99,8 @@ h1 {
 
 .ms-image-area {
     display: flex;
-    justify-content: space-around;
+    gap: 20px;
+    justify-content: center; 
     margin-bottom: 50px;
 }
 
