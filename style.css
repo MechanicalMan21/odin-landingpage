@@ -97,11 +97,14 @@ h1 {
     font-weight: 900;
 }
 
-.ms-image {
+.ms-image-area {
     display: flex;
     justify-content: space-around;
-    height: 200px; 
     margin-bottom: 50px;
+}
+
+.ms-image {
+    height: 200px; 
 }
 
 /* Lower Section Stuff */
