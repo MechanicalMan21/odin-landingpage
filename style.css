@@ -136,10 +136,11 @@ h1 {
 /* Call to Action Section */
 
 .cta-section {
-
+    
 }
 
 .cta-box {
+    display: flex;
     border: 1px solid blue; 
 }
 
@@ -147,3 +148,6 @@ h1 {
     font-weight: bold; 
 }
 
+.right-cta-box {
+    
+}
