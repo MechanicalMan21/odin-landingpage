@@ -162,4 +162,10 @@ h1 {
 }
 
 .right-cta-box {
+    border-radius: 10px;
+    border: white solid 2px; 
+    color: white;
+    background-color: #3882F6;
+    width: 100px;
+    font-weight: bold;
 }
