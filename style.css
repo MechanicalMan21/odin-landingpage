@@ -37,9 +37,16 @@ h1 {
 .header-link {
     display: flex; 
     justify-content: space-between;
+    align-items: center;
+    margin-top: 23px;
+    padding-left: 25px;
+    padding-right: 25px;
     /* width: 31%; */
     gap: 30px;
-   
+    color: red;
+    height: 30px;
+    border: 1px solid red;
+    background-color: black;
 }
 
 .upper-section {
@@ -58,9 +65,11 @@ h1 {
     font-size: 48px;
     font-weight: 900;
     font-family: Roboto;
+    color: #F9FAF8;
 }
 
 .mma-description {
+    color: #F9FAF8;
     margin-top: 0;
     margin-bottom: 30px;
 }
