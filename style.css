@@ -140,6 +140,10 @@ h1 {
 }
 
 .cta-box {
-    
+    border: 1px solid blue; 
+}
+
+.left-cta-box-title {
+    font-weight: bold; 
 }
 
